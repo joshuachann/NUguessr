@@ -20,9 +20,10 @@ export default function HomePage() {
           Sign up to play now!
         </Button>
         <div>
-          <Link href="/play" className="text-gray-200 hover:text-white underline text-lg">
-            Continue as a guest
-          </Link>
+         <Link href="/play" className="text-gray-200 hover:text-white underline text-lg">
+          Continue as a guest
+        </Link>
+
         </div>
       </main>
     </div>
